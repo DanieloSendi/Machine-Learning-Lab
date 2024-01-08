@@ -1,1 +1,1 @@
-# MachineLearningLab
+# MachineLearningLaboratory
